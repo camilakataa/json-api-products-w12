@@ -23,12 +23,12 @@
       "sizes": ["M", "L"],
       "rating": 4.9,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/00/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg?raw=true"
         ]
       }
     },
@@ -55,12 +55,12 @@
       "sizes": ["L"],
       "rating": 3.2,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/01/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg?raw=true"
         ]
       }
     },
@@ -87,12 +87,12 @@
       "sizes": ["S", "M"],
       "rating": 4.4,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/02/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg?raw=true"
         ]
       }
     },
@@ -119,12 +119,12 @@
       "sizes": ["L"],
       "rating": 4.7,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/03/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-5.jpg?raw=true"
         ]
       }
     },
@@ -151,12 +151,12 @@
       "sizes": ["L", "XL"],
       "rating": 4.6,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2643-3691811-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2643-3691811-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/04/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg?raw=true"
         ]
       }
     },
@@ -183,12 +183,12 @@
       "sizes": ["XL"],
       "rating": 4.9,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4215-5391811-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4215-5391811-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/05/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg?raw=true"
         ]
       }
     },
@@ -215,12 +215,12 @@
       "sizes": ["L"],
       "rating": 5,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7071-758318-3.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/06/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7071-758318-3.jpg?raw=true"
         ]
       }
     },
@@ -247,12 +247,12 @@
       "sizes": ["M"],
       "rating": 3.9,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2795-966646-2.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2798-966646-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2795-966646-2.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/07/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2798-966646-5.jpg?raw=true"
         ]
       }
     },
@@ -279,12 +279,12 @@
       "sizes": ["M", "L"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/08/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg?raw=true"
         ]
       }
     },
@@ -311,12 +311,12 @@
       "sizes": ["XL"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4193-7391811-2.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4193-7391811-2.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4194-7391811-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-1.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-4.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-5.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4194-7391811-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-1.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-4.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/09/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-5.jpg?raw=true"
         ]
       }
     },
@@ -343,12 +343,12 @@
       "sizes": ["M", "L"],
       "rating": 4.9,
       "images": {
-        "mainImage": "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7463-3007411-1.jpg",
+        "mainImage": "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7463-3007411-1.jpg?raw=true",
         "gallery": [
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7464-3007411-2.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7465-3007411-3.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7470-3007411-7.jpg",
-          "https://furniroproject.s3.us-east-2.amazonaws.com/Photos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7471-3007411-8.jpg"
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7464-3007411-2.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7465-3007411-3.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7470-3007411-7.jpg?raw=true",
+          "https://github.com/camilakataa/json-api-products-w12/blob/main/Fotos/10/Ease-MC3B3veis-Poltrona-Ravena-AlgodC3A3o-Bege-e-Nogueira-7471-3007411-8.jpg?raw=true"
         ]
       }
     },
