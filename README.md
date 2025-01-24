@@ -1,7 +1,6 @@
 # API JSON Furniture Database
 
-<img width="150px" src="./chair.jpg" alt="chair" style="border-radius: 40px"><br>
-Compass UOL - FrontEnd Challenge: Furniro Furniture<br>
+<img width="150px" src="./chair.jpg" alt="chair" style="border-radius: 40px">
 
 ## JSON
 
